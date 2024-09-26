@@ -4,12 +4,15 @@
 
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I try to learn something new everyday!</h3>
+<img align="right" src="https://github.com/user-attachments/assets/b59838c8-7d19-4775-b701-16bf1346465d" alt="Animation" width="100"/>
+
 
 - 🌱 I’m currently learning **App Dev and DSA**
 
 - 👨‍💻 All of my projects are available at [..](..)
 
 - 📫 How to reach me **katheaditya10@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
