@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+
+![1695311667654](https://github.com/user-attachments/assets/851be999-0bab-4b1a-92df-ddcf1df6e434)
+
+
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I try to learn something new everyday!</h3>
 
 - 🌱 I’m currently learning **App Dev and DSA**
