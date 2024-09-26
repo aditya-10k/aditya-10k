@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">I try to learn something new everyday!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-10k" alt="aditya-10k" /></a> </p>
-
-- 🔭 I’m currently working on **Coffee App**
-
 - 🌱 I’m currently learning **App Dev and DSA**
 
 - 👨‍💻 All of my projects are available at [..](..)
