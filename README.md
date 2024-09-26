@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I try to learn something new everyday!</h3>
-<img align="right" src="![Animation - 1727374271563](https://github.com/user-attachments/assets/e4020351-ed50-42c7-a01a-70e89d18dae3)"/>
+<img align="right" src="https://github.com/user-attachments/assets/5aa30368-7565-4386-9f0c-011002264c58" alt="Animation" width="100"/>
 
 
 - 🌱 I’m currently learning **App Dev and DSA**
