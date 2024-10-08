@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **App Dev and DSA**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at [My website](https://adityakathe.netlify.app/)
 
 - 📫 How to reach me **katheaditya10@gmail.com**
 
