@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Kathe 👋</h1>
-<h3 align="center">Building apps • Learning daily • Shipping projects</h3>
+<h3 align="center">App Developer • Flutter • Learning Every Day</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5aa30368-7565-4386-9f0c-011002264c58" width="140" />
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **App Development & DSA**
-- 👨‍💻 Exploring **Flutter, Backend APIs & System Design**
-- 🌐 Portfolio: **[adityakathe10.web.app](https://adityakathe10.web.app)**
-- 📫 Reach me at **katheaditya10@gmail.com**
+- 📱 Working mainly with **Flutter & Backend APIs**
+- 🌐 Portfolio: **https://adityakathe10.web.app/**
+- 📫 Email: **katheaditya10@gmail.com**
 
 ---
 
@@ -34,25 +34,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (WORKING)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-10k&theme=tokyonight&hide_border=true" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=aditya-10k&theme=github-dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-### 🧠 Currently Focusing On
-- 📱 Production-level Flutter apps  
-- 🔌 Backend APIs (Spring Boot / Node)  
-- 🧩 Problem-solving (DSA, but selectively 😉)
+### 🧠 Current Focus
+- 🚀 Building production-level Flutter apps  
+- 🔌 Backend APIs (Spring Boot / Node.js)  
+- 📊 Practical problem-solving (selective DSA)
 
 ---
 
 <p align="center">
-  <i>“Consistency beats motivation.”</i>
+  <i>Consistency beats motivation.</i>
 </p>
