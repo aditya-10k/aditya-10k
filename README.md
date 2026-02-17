@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **App Development & DSA**
-- 📱 Working mainly with **Flutter & Backend APIs**
+- 📱 Working mainly with **Flutter & Backend**
 - 🌐 Portfolio: **https://adityakathe10.web.app/**
 - 📫 Email: **katheaditya10@gmail.com**
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats (WORKING)
+### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
   <img width="48%" src="https://streak-stats.demolab.com?user=aditya-10k&theme=github-dark&hide_border=true&cache_seconds=86400" />
@@ -48,8 +48,8 @@
 
 ### 🧠 Current Focus
 - 🚀 Building production-level Flutter apps  
-- 🔌 Backend APIs (Spring Boot / Node.js)  
-- 📊 Practical problem-solving (selective DSA)
+- 🔌 Backend APIs (Spring Boot)  
+- 📊 Practical problem-solving (DSA)
 
 ---
 
