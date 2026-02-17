@@ -29,7 +29,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,cpp,html,css,mysql,androidstudio,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,html,css,mysql,androidstudio,git,firebase" />
 </p>
 
 ---
