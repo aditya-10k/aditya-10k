@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Kathe 👋</h1>
-<h3 align="center">App Developer • Flutter • Learning Every Day</h3>
+<h3 align="center">App Developer</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5aa30368-7565-4386-9f0c-011002264c58" width="140" />
