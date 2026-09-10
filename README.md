@@ -1,221 +1,235 @@
+﻿<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   ADITYA KATHE · aditya-10k                   -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C8FF,50:7B61FF,100:FF0080&text=Aditya%20Kathe&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Flutter%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20CS%20@%20DJSCE&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0010,50:120025,100:1a0038&text=ADITYA%20KATHE&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Building%20products%20that%20actually%20ship%20·%20Flutter%20·%20Spring%20Boot%20·%20DJSCE&descAlignY=67&descSize=17&descColor=BB86FC"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Aditya+Kathe;%24+role+%E2%86%92+App+Dev+%40+Triponovaa;%24+building+%E2%86%92+Travel+Platform+%7C+CricManager+%7C+JackDSQL;%24+stack+%E2%86%92+Flutter+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker;%24+passion+%E2%86%92+Building+products%2C+not+just+projects."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1800&color=BB86FC&center=true&vCenter=true&multiline=false&width=750&lines=🚀+App+Dev+%40+Triponovaa+—+building+a+travel+platform;🏏+CricManager+—+ML-powered+cricket+analytics;🧠+JackDSQL+—+270+challenges%2C+AI+hints%2C+live+sandbox;🎭+DoYouLarp+—+just+launched+·+doyoularp.vercel.app;📊+CGPA+8.67+·+CS+%40+DJSCE+·+Mumbai%2C+India"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/adityakathe/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/adityakathe">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:katheaditya10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://canadityacode.web.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Portfolio-BB86FC?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/aditya-10k">
-  <img src="https://komarev.com/ghpvc/?username=aditya-10k&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
+<a href="https://github.com/aditya-10k?tab=repositories">
+  <img src="https://img.shields.io/badge/-30%20Repos-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=aditya-10k&color=BB86FC&style=flat-square&label=views"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `$ cat /etc/aditya.conf`
+<table width="100%"><tr><td valign="top" width="60%">
 
-```yaml
-# ─────────────────────────────────────────────────────────
-#  ADITYA KATHE  ·  Computer Engineer  ·  Mumbai, India 🇮🇳
-# ─────────────────────────────────────────────────────────
+### `>_` Who's this?
 
-identity:
-  name:       "Aditya Kathe"
-  university: "DJSCE — Computer Engineering"
-  honors:     "Data Science"
-  cgpa:       8.67
-  github_age: "3 years (since Jun 2023)"
-  public_repos: 30
+```
+Computer Engineering undergrad @ DJSCE Mumbai
+Honors in Data Science   ·   CGPA: 8.67
 
-current:
-  role:     "App Developer"
-  company:  "Triponovaa"
-  focus:    "Production-grade Flutter + Spring Boot apps"
+Currently shipping a Travel Booking Platform at
+Triponovaa — integrating Travelport + TBO APIs
+with Flutter + Spring Boot.
 
-active_builds:
-  - "✈️  Travel Booking Platform (Travelport + TBO APIs)"
-  - "🏏  CricManager  →  cricmanagernow.web.app"
-  - "🧠  JackDSQL     →  jackdsql.web.app"
-  - "🎭  DoYouLarp    →  doyoularp.vercel.app   [🔥 LATEST]"
+By night: ML-powering cricket analytics,
+teaching SQL to thousands, and launching
+random ideas that stick.
 
-core_stack:
-  mobile:   [ Flutter, Dart ]
-  backend:  [ "Spring Boot", Java, Python ]
-  data:     [ PostgreSQL, MongoDB, MySQL, Redis ]
-  infra:    [ Docker, RabbitMQ, Firebase ]
-  tools:    [ Git, Postman, TypeScript ]
+30 public repos and counting since Jun 2023.
 ```
 
+</td><td valign="top" width="40%">
+
+### `>_` Quick stats
+
+| | |
+|---|---|
+| 📍 | Mumbai, India |
+| 🏛️ | DJSCE · CS + Data Science |
+| ⭐ | CGPA 8.67 |
+| 💼 | App Dev @ Triponovaa |
+| 📦 | 30 public repos |
+| 👥 | 10 followers |
+| 🗓️ | On GitHub since Jun 2023 |
+
+</td></tr></table>
+
 ---
 
-## ⚔️ Tech Arsenal
+## ⚙️ Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,python,ts,postgres,mongodb,mysql,redis,docker,firebase,rabbitmq,git,github,postman&perline=8"/>
+**Mobile & UI**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Shipped Products
+## 🛸 What I've Shipped
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="25%" align="center">
+**🏏 CricManager** &nbsp; [![Live](https://img.shields.io/badge/live-00C896?style=flat-square)](https://cricmanagernow.web.app)
 
-### 🏏 CricManager
+> ML-powered cricket analytics platform
 
-**Cricket Analytics Platform**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-- Expected Runs Engine
-- Win Probability Model
-- Match + Tournament Simulator
-- Draft Room
-
-**[🌐 Live →](https://cricmanagernow.web.app)**
+- **Expected Runs Engine** — ball-by-ball prediction
+- **Win Probability Model** — live match odds
+- **Tournament + Match Simulator**
+- **Fantasy Draft Room**
 
 </td>
+<td width="50%">
 
-<td width="25%" align="center">
+**🧠 JackDSQL** &nbsp; [![Live](https://img.shields.io/badge/live-00C896?style=flat-square)](http://jackdsql.web.app)
 
-### 🧠 JackDSQL
+> Interactive SQL learning, at scale
 
-**Interactive SQL Learning**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-- 270 SQL Challenges
-- AI-powered Hints
-- Sandbox DB Environment
-- Docker Infrastructure
-
-**[🌐 Live →](http://jackdsql.web.app)**
+- **270 progressive SQL challenges**
+- **AI-powered hints** — never fully stuck
+- **Sandboxed live DB** — run real queries
+- Containerised infra, zero cold starts
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td width="25%" align="center">
+**⚡ BatchShare** &nbsp; [![Live](https://img.shields.io/badge/live-00C896?style=flat-square)](https://batchsharenow.web.app)
 
-### ⚡ BatchShare
+> Real-time text sync across devices
 
-**Real-time Text Sync**
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-- WebSocket Powered
-- Redis Pub/Sub
-- Cross-device Sync
-- Cloud Deployed
-
-**[🌐 Live →](https://batchsharenow.web.app)**
-
-</td>
-
-<td width="25%" align="center">
-
-### 🎭 DoYouLarp
-
-**Latest Build — Sep 2026 🔥**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-- Shipped in record time
-- Live & deployed
-
-**[🌐 Live →](https://doyoularp.vercel.app)**
+- WebSocket push, Redis Pub/Sub backbone
+- Cross-device, zero signup
+- Cloud deployed, always-on
 
 </td>
+<td width="50%">
 
+**🎭 DoYouLarp** &nbsp; [![Live](https://img.shields.io/badge/live-00C896?style=flat-square)](https://doyoularp.vercel.app) `🔥 Sep 2026`
+
+> Latest drop — shipped in days
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- Conceived, built, deployed fast
+- Live at doyoularp.vercel.app
+- Because ideas should ship, not sit
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 Numbers
 
 <p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&count_private=true">
+    srcset="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&bg_color=0a0010">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-10k&show_icons=true&theme=radical&hide_border=true&count_private=true">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=aditya-10k&theme=tokyonight&hide_border=true">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-10k">
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=aditya-10k&theme=radical&hide_border=true&background=0a0010">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-10k&theme=radical&hide_border=true">
 </picture>
 
 </p>
 
 <p align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&langs_count=8">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0a0010">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-10k&layout=compact&theme=radical&hide_border=true&langs_count=8">
 </picture>
-
 </p>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Commit Activity
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-10k&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-10k&theme=react-dark&hide_border=true&area=true&area_color=BB86FC&line=BB86FC&point=ffffff"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-10k&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aditya-10k&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 </p>
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Timeline
 
 ```
-2026 ──────────────────────────────────── Present
- │
- ├── 🚀  App Developer @ Triponovaa
- │       └── Travel Booking Platform
- │           ├── Travelport API integration
- │           └── TBO API integration
- │
- ├── 📱  App Developer @ SVKM EduConnect
- │       └── 500+ Downloads
- │           ├── Real-time Messaging
- │           └── Student Platform
- │
- └── 📈  Flutter Developer @ Quickyearning
-         └── DiamondRock Stock App
-             ├── Live Market Data
-             └── Portfolio Tracking
+ 2026 ─────────────────────────────────────────────── now
+  │
+  ├─▶  App Developer @ Triponovaa
+  │    Travel platform · Travelport + TBO APIs
+  │    Flutter frontend · Spring Boot backend
+  │
+  ├─▶  App Developer @ SVKM EduConnect
+  │    500+ downloads · Real-time messaging
+  │    Student community platform
+  │
+  └─▶  Flutter Developer @ Quickyearning
+       DiamondRock — live stock data · portfolio tracking
 ```
 
 ---
@@ -223,18 +237,17 @@ core_stack:
 ## 🔥 Coding Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-10k&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-10k&theme=radical"/>
 </p>
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-10k&theme=tokyonight"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-10k&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-10k&theme=radical"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-10k&theme=radical"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aditya-10k/aditya-10k/output/github-contribution-grid-snake-dark.svg"/>
@@ -242,31 +255,31 @@ core_stack:
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Right Now
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                  CURRENT SPRINT 🔥                   ║
-╠══════════════════════════════════════════════════════╣
-║  🚀  Production Flutter apps @ Triponovaa            ║
-║  ⚡  Scalable Spring Boot microservices              ║
-║  🐳  Containerized deployments with Docker           ║
-║  🏏  ML models for Cricket Analytics (CricManager)   ║
-║  📊  DSA grind on NeetCode (Java)                    ║
-╚══════════════════════════════════════════════════════╝
+```
+┌─────────────────────────────────────────────────────────┐
+│                     SPRINT LOG                          │
+├────────────────────────────────────────────────────────-┤
+│  🚀  Triponovaa — shipping Travel Booking Platform      │
+│  🏏  CricManager — expanding ML cricket models          │
+│  🧠  JackDSQL — growing challenge library               │
+│  🎭  DoYouLarp — just launched, iterating fast          │
+│  📊  NeetCode grind — Java DSA daily                    │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📌 Repos Worth Exploring
+## 📌 Pinned
 
 <div align="center">
 
-[![CricManager](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=crickmanager&theme=tokyonight&hide_border=true)](https://github.com/aditya-10k/crickmanager)
-[![DoYouLarp](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=doyoularp&theme=tokyonight&hide_border=true)](https://github.com/aditya-10k/doyoularp)
+[![CricManager](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=crickmanager&theme=radical&hide_border=true)](https://github.com/aditya-10k/crickmanager)
+[![DoYouLarp](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=doyoularp&theme=radical&hide_border=true)](https://github.com/aditya-10k/doyoularp)
 
-[![MatchResume](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=matchresume&theme=tokyonight&hide_border=true)](https://github.com/aditya-10k/matchresume)
-[![NeetCode Submissions](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=neetcode-submissions&theme=tokyonight&hide_border=true)](https://github.com/aditya-10k/neetcode-submissions)
+[![MatchResume](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=matchresume&theme=radical&hide_border=true)](https://github.com/aditya-10k/matchresume)
+[![NeetCode](https://github-readme-stats.vercel.app/api/pin/?username=aditya-10k&repo=neetcode-submissions&theme=radical&hide_border=true)](https://github.com/aditya-10k/neetcode-submissions)
 
 </div>
 
@@ -274,10 +287,12 @@ core_stack:
 
 <div align="center">
 
-### *"Building products, not just projects."*
+<br/>
+
+*Building products, not just projects.*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C8FF,50:7B61FF,100:FF0080&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:1a0038,50:120025,100:0a0010&section=footer&reversal=true"/>
 
 </div>
